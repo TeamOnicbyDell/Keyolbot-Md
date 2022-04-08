@@ -18,7 +18,7 @@ global.APIKeys = {
 }
 
 // Owner
-global.owner = ['6281575886399','6281575886399','6281575886399']
+global.owner = ['0128667737','6281575886399','6281575886399']
 global.ownernomer = '6281575886399'
 global.premium = ['6281575886399']
 global.ownername = 'Keyol Keren'
